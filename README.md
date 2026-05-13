@@ -1,119 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:00F5FF,100:00FF88&height=140&section=header&text=AdvoxSystem%20ERP&fontSize=42&fontColor=ffffff&fontAlignY=60&desc=Sistema%20de%20Gestão%20Jurídica%20Completo&descSize=16&descAlignY=80&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:221f1c,50:2e2723,100:CDB36C&height=160&section=header&text=AdvoxSystem%20ERP&fontSize=46&fontColor=CDB36C&fontAlignY=60&desc=Sistema%20de%20Gestão%20Jurídica%20Completo&descSize=16&descColor=F7F7F7&descAlignY=80&animation=fadeIn" width="100%"/>
 
-![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00F5FF?style=for-the-badge&labelColor=0d0d0d)
-![Versão](https://img.shields.io/badge/VERSÃO-1.0.0-00FF88?style=for-the-badge&labelColor=0d0d0d)
-![Licença](https://img.shields.io/badge/LICENÇA-PRIVADO-FF4500?style=for-the-badge&labelColor=0d0d0d)
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-CDB36C?style=for-the-badge&labelColor=221f1c)
+![Versão](https://img.shields.io/badge/VERSÃO-1.0.0-CDB36C?style=for-the-badge&labelColor=2e2723)
+![Licença](https://img.shields.io/badge/ACESSO-PRIVADO-5D544F?style=for-the-badge&labelColor=221f1c)
 
 </div>
 
 ---
 
-## 📌 Sobre o Projeto
+<div align="center">
 
-O **AdvoxSystem ERP** é uma plataforma completa de gestão para escritórios de advocacia — desenvolvida do zero para digitalizar, automatizar e escalar a operação jurídica de ponta a ponta.
+### ⚖️ Tecnologia a serviço da advocacia moderna
 
-Construída com tecnologia moderna, a plataforma unifica em um só lugar tudo que um escritório precisa: desde o cadastro de clientes até a geração de petições com Inteligência Artificial.
+O **AdvoxSystem ERP** é uma plataforma completa de gestão para escritórios de advocacia — construída do zero para digitalizar, automatizar e escalar toda a operação jurídica em um único sistema.
 
-> ⚠️ **Repositório privado** — o código-fonte não está disponível publicamente. Este README é uma vitrine do projeto.
+> 🔒 **Repositório privado** — código-fonte protegido. Este README é a vitrine pública do projeto.
+
+</div>
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Módulos do Sistema
 
 ### 🏛️ Jurídico
 - Gestão completa de **processos jurídicos**
-- **Modelos de documentos** reutilizáveis
+- **Modelos de documentos** reutilizáveis e editáveis
 - **Relatórios jurídicos** detalhados
-- **Geração de petições com IA** integrada
+- **Geração de petições com Inteligência Artificial**
 
 ### 👥 Clientes
-- Cadastro e perfil completo de clientes
+- Cadastro e perfil completo por cliente
 - Histórico de atendimentos e interações
-- Documentos por cliente
-- Processos vinculados por cliente
+- Documentos vinculados por cliente
+- Processos por cliente com linha do tempo
 
 ### 📅 Organização
-- **Agenda** do escritório
+- **Agenda** integrada do escritório
 - Controle de **prazos processuais**
-- **Audiências** agendadas
+- **Audiências e reuniões** agendadas com notificações
 
 ### 💰 Administrativo
-- Módulo **financeiro** do escritório
+- Módulo **financeiro** completo do escritório
 - Gestão de **contratos**
-- **Arquivos** e documentos
-- Gestão de **planos**
+- **Arquivos e documentos** organizados
+- Gestão de **planos e cobranças**
 
-### 📣 Marketing & Comunicação
-- Módulo de **marketing** integrado
-- **WhatsApp** integrado via API (Node.js)
-- Comunicação direta com clientes
+### 📣 Gerenciamento & Comunicação
+- **WhatsApp** integrado via API — comunique-se sem sair do sistema
+- Módulo de **marketing** para campanhas
+- **IA para gerar petições** automaticamente
 
 ### ⚙️ Admin & Equipe
 - Gestão de **usuários e equipe**
-- Sistema de **cargos e permissões**
-- Controle de acesso granular
+- Sistema de **cargos** personalizados
+- **Permissões granulares** por funcionalidade
+- Suporte a **multi-empresa**
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0066FF?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=000000)
+<div align="center">
 
-### Backend & API
-![Python](https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-00FF88?style=for-the-badge&logo=node.js&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-221f1c?style=for-the-badge&logo=next.js&logoColor=CDB36C)
+![TypeScript](https://img.shields.io/badge/TypeScript-221f1c?style=for-the-badge&logo=typescript&logoColor=CDB36C)
+![React](https://img.shields.io/badge/React-221f1c?style=for-the-badge&logo=react&logoColor=CDB36C)
+![Python](https://img.shields.io/badge/Python-221f1c?style=for-the-badge&logo=python&logoColor=CDB36C)
+![Node.js](https://img.shields.io/badge/Node.js-221f1c?style=for-the-badge&logo=node.js&logoColor=CDB36C)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-221f1c?style=for-the-badge&logo=whatsapp&logoColor=CDB36C)
+![OpenAI](https://img.shields.io/badge/IA%20Generativa-221f1c?style=for-the-badge&logo=openai&logoColor=CDB36C)
 
-### Integrações
-![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![OpenAI](https://img.shields.io/badge/IA%20Generativa-000000?style=for-the-badge&logo=openai&logoColor=white)
+</div>
 
 ---
 
-## 🏗️ Arquitetura
+## 🏗️ Arquitetura do Projeto
 
 ```
 AdvoxSystem-ERP/
-├── AdvoxSystem-Frontend/     # Next.js + TypeScript
-│   ├── app/
-│   │   ├── pages/
-│   │   │   ├── Principal/    # Dashboard, Clientes, Equipe
-│   │   │   ├── Juridico/     # Processos, Modelos, Relatórios
-│   │   │   ├── Organizacao/  # Agenda, Prazos
-│   │   │   ├── Administrativo/ # Financeiro, Arquivos, Audiências
-│   │   │   ├── Gerenciamento/  # IA, Marketing, WhatsApp
-│   │   │   └── Admin/        # Usuários, Cargos, Permissões
-│   │   └── api/              # API Routes (Next.js)
-│   └── components/           # Sidebar, Topbar, UI
+├── AdvoxSystem-Frontend/        # Next.js + TypeScript
+│   └── app/
+│       ├── pages/
+│       │   ├── Principal/       # Dashboard · Clientes · Equipe
+│       │   ├── Juridico/        # Processos · Modelos · Relatórios
+│       │   ├── Organizacao/     # Agenda · Prazos
+│       │   ├── Administrativo/  # Financeiro · Arquivos · Audiências
+│       │   ├── Gerenciamento/   # IA · Marketing · WhatsApp
+│       │   └── Admin/           # Usuários · Cargos · Permissões
+│       └── api/                 # API Routes
 │
-└── AdvoxSystem-API/          # Python + Node.js
-    ├── Advogados.py          # API de advogados
-    ├── Processos.py          # API de processos
-    └── WhatsApp/             # Integração WhatsApp
+└── AdvoxSystem-API/             # Python + Node.js
+    ├── Advogados.py             # API de advogados
+    ├── Processos.py             # API de processos
+    └── WhatsApp/                # Integração WhatsApp
 ```
 
 ---
 
 ## 🚀 Diferenciais
 
-- **IA para petições** — geração automática de documentos jurídicos
-- **WhatsApp nativo** — comunicação integrada sem sair do sistema
-- **Multi-usuário** — sistema de permissões por cargo
-- **100% web** — acesse de qualquer lugar, sem instalação
-- **Full-stack TypeScript** — frontend e API tipados de ponta a ponta
+| Recurso | Descrição |
+|---|---|
+| ⚖️ **Foco jurídico** | Construído exclusivamente para escritórios de advocacia |
+| 🤖 **IA integrada** | Geração automática de petições com IA generativa |
+| 💬 **WhatsApp nativo** | Comunicação com clientes sem sair do sistema |
+| 🔐 **Permissões granulares** | Controle total de acesso por cargo e funcionalidade |
+| 🏢 **Multi-empresa** | Suporte a múltiplos escritórios na mesma plataforma |
+| 🌐 **100% web** | Acesse de qualquer lugar, sem instalação |
 
 ---
 
 <div align="center">
 
-### 💼 Projeto comercial em desenvolvimento ativo
+**Desenvolvido com dedicação por**
 
-**Desenvolvido por [joaobragheroli](https://github.com/joaobragheroli)**
+[![joaobragheroli](https://img.shields.io/badge/joaobragheroli-221f1c?style=for-the-badge&logo=github&logoColor=CDB36C)](https://github.com/joaobragheroli)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:0066FF,100:00F5FF&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDB36C,50:2e2723,100:221f1c&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

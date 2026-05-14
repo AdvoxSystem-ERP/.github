@@ -119,6 +119,9 @@ AdvoxSystem-ERP/
 **Desenvolvido com dedicação por**
 
 [![joaobragheroli](https://img.shields.io/badge/joaobragheroli-221f1c?style=for-the-badge&logo=github&logoColor=CDB36C)](https://github.com/joaobragheroli)
+[![VitorMelendes](https://img.shields.io/badge/VitorMelendes-221f1c?style=for-the-badge&logo=github&logoColor=CDB36C)](https://github.com/VitorMelendes)
+[![EduardoBellussi](https://img.shields.io/badge/EduardoBellussi-221f1c?style=for-the-badge&logo=github&logoColor=CDB36C)](https://github.com/EduardoBellussi)
+[![cleyton07](https://img.shields.io/badge/cleyton07-221f1c?style=for-the-badge&logo=github&logoColor=CDB36C)](https://github.com/cleyton07)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDB36C,50:2e2723,100:221f1c&height=120&section=footer&animation=fadeIn" width="100%"/>
 
